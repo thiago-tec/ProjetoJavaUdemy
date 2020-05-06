@@ -3,7 +3,9 @@ package fundamentos;
 public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
-		System.out.println("Primeiro Programa!!");
+			
+		    //Uma sentença de código termina com ;
+			System.out.println("Primeiro Programa!!");
 	}
-	
+
 }
